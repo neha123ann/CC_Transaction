@@ -1,4 +1,4 @@
-# CC_Transaction
+# Credit_Card_Transaction
 
   ### customer behavior and transaction data for a credit card business. These dashboards aim to provide deep insights into revenue generation, customer segmentation,
   and usage trends to assist in data-driven decision-making.
